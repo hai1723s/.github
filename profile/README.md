@@ -1,4 +1,4 @@
-![Static Badge](https://komarev.com/ghpvc/?username=hai723&style=for-the-badge&color=000000)
+![Static Badge](https://komarev.com/ghpvc/?username=hai1723s&style=for-the-badge&color=000000)
 
 discord chat
 
